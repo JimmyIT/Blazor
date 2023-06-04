@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenAPI", "OpenAPI\OpenAPI.csproj", "{929FB7F0-C724-4C65-A1AB-7E1801BDCF6E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Server", "Server", "{1E086691-10D6-486F-ABDD-ACBD150135F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client", "Client", "{C7094C60-5DF8-432B-AB46-B30C5805ABD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{929FB7F0-C724-4C65-A1AB-7E1801BDCF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{929FB7F0-C724-4C65-A1AB-7E1801BDCF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{929FB7F0-C724-4C65-A1AB-7E1801BDCF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{929FB7F0-C724-4C65-A1AB-7E1801BDCF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{929FB7F0-C724-4C65-A1AB-7E1801BDCF6E} = {1E086691-10D6-486F-ABDD-ACBD150135F4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C21101E-F580-4677-BE6E-F7E62247CC84}
+	EndGlobalSection
+EndGlobal
