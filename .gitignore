@@ -4,3 +4,6 @@
 OpenAPI/bin/
 
 OpenAPI/obj/
+/Application/obj
+/EFCore/obj
+/Infrastructure/obj
